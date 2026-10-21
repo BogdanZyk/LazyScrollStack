@@ -1,0 +1,16 @@
+.DS_Store
+/.build
+/Packages
+
+# Xcode user and transient files
+xcuserdata/
+*.xcuserstate
+*.xcscmblueprint
+*.moved-aside
+*.xccheckout
+DerivedData/
+
+# Swift Package Manager local state
+.swiftpm/configuration/registries.json
+.swiftpm/xcode/package.xcworkspace/contents.xcworkspacedata
+.netrc
